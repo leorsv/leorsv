@@ -8,7 +8,7 @@
   <a  style="text-decoration:none; color:black" >
    <h1 align="left">ABOUT
      
-  <a href="(https://www.republicservices.com/)"  style="text-decoration:none; color:black" >
+  <a href="https://www.republicservices.com"  style="text-decoration:none; color:black" >
     <img src="./Assets/Republic_Website_Logo.png" alt="Logo" style="background-color:white"  align="right">
     <br />
   </a>
