@@ -9,7 +9,7 @@
    <h1 align="left">ABOUT
      
   <a href="https://www.linkedin.com/in/leoworkcp/"  style="text-decoration:none; color:black" >
-    <img src="./assets/Republic_Website_Logo.png" alt="Logo" style="background-color:white"  align="right">
+    <img src="./Assets/Republic_Website_Logo.png" alt="Logo" style="background-color:white"  align="right">
     <br />
   </a>
   
