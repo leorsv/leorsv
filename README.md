@@ -4,12 +4,15 @@
 <!-- Linkedin -->
 <!-- <p align="center"> -->
 <br />
-  <a href="https://leoworkcp.github.io/"  style="text-decoration:none; color:black" >
+
+  <a  style="text-decoration:none; color:black" >
    <h1 align="left">ABOUT
+     
   <a href="https://www.linkedin.com/in/leoworkcp/"  style="text-decoration:none; color:black" >
     <img src="./assets/linkedin-logo.png" alt="Logo" style="background-color:white"  align="right">
     <br />
   </a>
+  
 </h2>
 <br />
 I’m Leo, a full-stack Software Engineer with experience in Python, JavaScript, C#, and React-Redux, and a background in computer science. My interests in programming are rooted in a desire to understand the inner workings of the “black box”, by breaking down abstract concepts into their functional components. I’m looking for an environment that is fast paced with opportunities to continue learning.
@@ -37,49 +40,7 @@ I’m Leo, a full-stack Software Engineer with experience in Python, JavaScript,
 
 # PROJECTS
 
-<h2 align="center" >	
-Bata Orö Seco
-<p align="center">
-<br />
-  <a href="https://3headmonkey.com/home-3">
-    <img src="./assets/bata-logo.png" alt="Logo" style="background-color:white">
-    <br />
-    <br />
-  </a>
-</h2>
 
-<h2 align="center" >	
-Dotify-Sound
-<p align="center">
-<br />
-  <a href="https://dotify-sound-v1.herokuapp.com/">
-    <img src="./assets/dotify-logo.png" alt="Logo" style="background-color:white">
-    <br />
-    <br />
-  </a>
-</h2>
-
-<h2 align="center" >	
-Discordance
-<p align="center">
-<br />
-  <a href="https://discordanc3.herokuapp.com/discover">
-    <img src="./assets/discordance-logo.png" alt="Logo" style="background-color:white">
-    <br />
-    <br />
-  </a>
-</h2>
-
-<h2 align="center" >	
-Comic-Collections
-<p align="center">
-<br />
-  <a href="http://comic-collections.herokuapp.com/">
-    <img src="./assets/comic-logo.png" alt="Logo" style="background-color:white">
-    <br />
-    <br />
-  </a>
-</h2>
 
 <a href="mailto:leoworkcp@gmail.com" target="_blank"  class="icon alt fa-envelope" style="text-decoration: none"><h2 align="right" >
 ✉️</a>
