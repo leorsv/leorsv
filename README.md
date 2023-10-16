@@ -24,9 +24,9 @@ I’m Leo, a full-stack Software Engineer with experience in Python, JavaScript,
 |       Technical Competencies        |                                      Description                                       |
 | :---------------------------------: | :------------------------------------------------------------------------------------: |
 |              Languages              |                           JavaScript, Python, C#.Net, C/C++, VB,                       |
-|            Technologies             |   Nodejs, MVC 4, ASP.NET, .NET, WCF, AJAX, XML, XAML, SSIS, JSON, DevExpress, Xceed    |
+|            Technologies             |   Nodejs, MVC 4, ASP.NET, .NET, WCF, AJAX, XML, XAML, SSIS, JSON, WPF, UWP             |
 |              Database               |                   PostgresQL, SQL Server 2005, 2008, 2012, MS-Access                   |
-|         Scripting Languages         |                         React-Redux, AngularJS, J Query, Ajax                          |
+|         Scripting Languages         |                         React-Redux, AngularJS, J Query, Ajax, DevExpress, Xceed       |
 |          Development Tools          |             MS Visual Studio 2002/2005/2008/2010/2012/2015, C++ Builder 6              |
 |         Source Code Control         |                   Team Foundation Server (TFS) 2008, DevOps, VSS Git/Github            |
 |           Reporting Tools           |                         Visual Studio Reporter Designer (SSRS)                         |
